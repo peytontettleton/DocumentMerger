@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.deps.json
+C:\Users\Admin\Documents\GitHub\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.dll
+C:\Users\Admin\Documents\GitHub\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.pdb
+C:\Users\Admin\Documents\GitHub\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.dll
+C:\Users\Admin\Documents\GitHub\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.pdb
